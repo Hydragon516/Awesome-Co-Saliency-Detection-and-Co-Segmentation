@@ -21,7 +21,7 @@
 * Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Adaptive_Graph_Convolutional_Network_With_Attention_Graph_Clustering_for_Co-Saliency_CVPR_2020_paper.pdf)[code]
 
 ## AAAI 2020
-* Deep Object Co-Segmentation via Spatial-Semantic Network Modulation [[paper]](file:///C:/Users/minhyeok/Desktop/6977-Article%20Text-10206-1-10-20200525.pdf)[[code]](https://github.com/cj4L/SSNM-Coseg)
+* Deep Object Co-Segmentation via Spatial-Semantic Network Modulation [[paper]](https://arxiv.org/abs/1911.12950)[[code]](https://github.com/cj4L/SSNM-Coseg)
 
 ## NeurIPS 2020
 * CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection [[paper]](https://arxiv.org/pdf/2011.04887.pdf)[[code]](https://github.com/rmcong/CoADNet_NeurIPS20)
